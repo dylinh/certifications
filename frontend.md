@@ -1,4 +1,4 @@
-## 📜 Certifications
+## 📜 Frontend Certifications
 
 - [The Frontend Developer Career Path](https://scrimba.com/certificate-cert24zAwPPowMo4TRoCZTYmCyyCC62j4Ztg5mWhN)
 - [Advanced React](https://scrimba.com/certificate-cert2JbLs3qgAvnJFeSv2GCpEVuru4beZbmTy15GUD)
