@@ -6,3 +6,4 @@
 - [Learn JavaScript](https://scrimba.com/certificate-cert24zAwPPowMo4TRoCZTYmCz2AnLboQ3RE7rWha)
 - [Learn Accessible Web Design](https://scrimba.com/certificate-cert2JbLs3qgAvnJFeSv2GCpEVvijxJhZiy3DVK1uV)
 - [Intro to UI Design Fundamentals](https://scrimba.com/certificate-cert24zAwPPowMo4TRoCZTYmCyzvsQCMRbSzmpDoc)
+- [Learn TypeScript](https://scrimba.com/certificate-cert2JbLs3qgAvnJFeSv2GCpEVvw95gk3TSjWxA5uL)
